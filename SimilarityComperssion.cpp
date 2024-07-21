@@ -1,4 +1,3 @@
-// File name: A3_sheetPb2_20220704
 // Purpose: Program to calculate how simler two doucuments to each other
 // Author(s): Raghad Mohammed Suliman Mohammed
 // ID(s): 20220704
