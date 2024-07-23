@@ -1,3 +1,9 @@
+// Purpose: Program to calculate how simler two doucuments to each other
+// Author(s): Raghad Mohammed Suliman Mohammed
+// ID(s): 20220704
+// Section: 12
+// Date: 8.December.2023
+
 #include "StringSet.h"
 
 StringSet::StringSet() {}
